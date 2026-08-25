@@ -99,8 +99,10 @@ The financial sales dataset was prepared before creating the dashboard.
 The data preparation process involved reviewing the imported dataset, preparing the required fields, transforming data where required, ensuring appropriate data types, and preparing fields required for calculations and visualizations.
 
 Power Query was used as part of the data preparation process.
-<img width="1920" height="1080" alt="dataload" src="https://github.com/user-attachments/assets/f06fec02-e809-4ae3-b453-f11ea4f2edbf" />
-<img width="1920" height="1080" alt="datacleaning" src="https://github.com/user-attachments/assets/a4784ff4-76c6-4d5e-a45c-ab2eacf1055b" />
+<img width="1920" height="1011" alt="dataload" src="https://github.com/user-attachments/assets/ad7b9dcf-b68f-463b-94ee-de4013939c15" />
+<img width="1717" height="820" alt="datacleaning" src="https://github.com/user-attachments/assets/02e8a1f4-7fc1-4624-8638-379bf9417451" />
+
+
 
 
 🧮 DAX & Calculations
@@ -117,7 +119,8 @@ Discount
 Current-year performance
 Previous-year performance
 Year-over-year comparisons
-<img width="1920" height="1080" alt="dax-kpi" src="https://github.com/user-attachments/assets/dd57e4b9-9428-4bf6-98e0-06f0c0e8e4c7" />
+<img width="1920" height="993" alt="dax-kpi" src="https://github.com/user-attachments/assets/b10cbdcb-d881-4144-a5ed-bb776efcef67" />
+
 
 
 💡 Business Insights
