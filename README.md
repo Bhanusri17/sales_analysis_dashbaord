@@ -135,3 +135,5 @@ These insights can help organizations understand financial performance and suppo
 📷 Dashboard Preview
 
 FestMan Sales – Financial Analysis Report
+<img width="1916" height="983" alt="dashbaord" src="https://github.com/user-attachments/assets/e8e5e33e-d8b5-46f9-9e01-65e8beaa1139" />
+
