@@ -1,8 +1,8 @@
-📊 FestMan Sales – Financial Analysis Report
+**📊 FestMan Sales – Financial Analysis Report**
 
 An interactive Sales & Financial Analysis Dashboard developed using Microsoft Power BI to analyze sales performance, orders, profit, profit margins, discounts, countries, business segments, and product performance.
 
-📌 Project Overview
+**📌 Project Overview**
 
 The FestMan Sales – Financial Analysis Report is a Business Intelligence and Data Analytics project developed using Microsoft Power BI.
 
@@ -12,7 +12,8 @@ The dashboard provides a consolidated view of important business metrics and all
 
 The project demonstrates the process of transforming business data into an interactive dashboard for data-driven decision-making.
 
-🎯 Project Objectives
+**🎯 Project Objectives**
+
 Analyze overall sales performance.
 Monitor order performance.
 Analyze total profit and profitability.
@@ -27,7 +28,8 @@ Analyze sales trends by year and month.
 Present business information through an interactive Power BI dashboard.
 Support data-driven business decision-making.
 
-🛠️ Tools & Technologies
+**🛠️ Tools & Technologies**
+
 Microsoft Power BI – Dashboard development and data visualization
 Power Query – Data preparation and transformation
 DAX – Calculations, measures, and KPIs
@@ -35,10 +37,11 @@ Microsoft Excel – Source financial sales data
 Data Visualization – Presenting business insights
 Business Intelligence – Business performance analysis
 
-🔄 Data Analytics Workflow
+**🔄 Data Analytics Workflow**
+
 Raw Financial Sales Data → Data Import → Data Cleaning → Data Transformation → Data Modeling → DAX & KPI Computation → Data Visualization → Interactive Dashboard → Business Insights
 
-📈 Key Performance Indicators
+**📈 Key Performance Indicators**
 
 The dashboard contains five major KPIs:
 
@@ -62,7 +65,8 @@ Discount
 
 Displays the current discount amount and compares it with the previous year's discount.
 
-📊 Dashboard Visualizations
+**📊 Dashboard Visualizations**
+
 1. Orders by Country
 
 A bar chart comparing the number of orders across countries including Canada, France, United States, Mexico, and Germany.
@@ -92,7 +96,7 @@ A line chart showing sales trends over time and helping identify changes in mont
 A visualization highlighting the top three products based on sales amount.
 
 
-🧹 Data Preparation
+**🧹 Data Preparation**
 
 The financial sales dataset was prepared before creating the dashboard.
 
@@ -105,7 +109,7 @@ Power Query was used as part of the data preparation process.
 
 
 
-🧮 DAX & Calculations
+**🧮 DAX & Calculations**
 
 DAX (Data Analysis Expressions) was used to create calculations and measures required for the dashboard.
 
@@ -123,7 +127,7 @@ Year-over-year comparisons
 
 
 
-💡 Business Insights
+**💡 Business Insights**
 
 The dashboard can be used to analyze:
 
@@ -141,7 +145,7 @@ Top-performing products
 
 These insights can help organizations understand financial performance and support data-driven decision-making.
 
-📷 Dashboard Preview
+**📷 Dashboard Preview**
 
 FestMan Sales – Financial Analysis Report
 <img width="1916" height="983" alt="dashbaord" src="https://github.com/user-attachments/assets/e8e5e33e-d8b5-46f9-9e01-65e8beaa1139" />
